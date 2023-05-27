@@ -95,7 +95,7 @@ Dengan menggunakan perintah-perintah tersebut, kita dapat memperoleh informasi s
 
 ## 4. Tampilkan jumlah hewan berdasarkan spesies dan jenis kelamin.
 
-![image](https://github.com/verz666/basis_data_praktikum_4/assets/115523263/50aaf089-88b7-4846-8f25-8814020733c9)
+![image](https://github.com/verz666/basis_data_praktikum_4/assets/115523263/e0236dbd-aa6e-4819-b9b9-f5e60b171a73)
 
 ## 5. Tampilkan jumlah hewan berdasarkan spesies (cat dan dog saja) dan jenis kelamin
 
